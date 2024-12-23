@@ -1,0 +1,5 @@
+name: Recipes
+version: '1.0'
+main: com.stemcraft.recipes.Recipes
+api-version: '1.21'
+depend: [STEMCraftLib]
