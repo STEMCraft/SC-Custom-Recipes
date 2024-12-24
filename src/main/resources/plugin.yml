@@ -1,5 +1,5 @@
-name: STEMCraft-Recipes
+name: STEMCraft-Custom-Recipes
 version: '1.0'
-main: com.stemcraft.recipes.Recipes
+main: com.stemcraft.CustomRecipes
 api-version: '1.21'
 depend: [STEMCraftLib]
